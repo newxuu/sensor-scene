@@ -1,0 +1,6 @@
+greenlet
+h5py
+numpy
+scipy
+theano
+keras
